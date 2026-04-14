@@ -1,0 +1,4 @@
+aiogram==3.10.0
+firebase-admin==6.5.0
+asyncio
+logging
